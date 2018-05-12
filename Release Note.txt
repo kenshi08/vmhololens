@@ -1,0 +1,10 @@
+Unity3D Version - 2017.4.1.f1
+
+
+MixedRealityToolkit-Unity - https://github.com/Microsoft/MixedRealityToolkit-Unity
+Version - HoloToolkit-Unity-2017.2.1.1
+Holotool kit examples - HoloToolkit-Unity-Examples-v1.2017.1.2
+
+Visual Studio - 2017
+
+Win SDK - 10.0.16299.0
