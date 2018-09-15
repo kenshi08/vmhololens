@@ -10,8 +10,8 @@ public class APIClientTest : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        client = new VCenterClient("https://VCIP",
-                "administrator@vsphere.local", "VMware1!");
+        client = new VCenterClient("http://163.182.168.150",
+                "administrator@neetcloud.local", "N33tcloud1!");
     }
     
     // Update is called once per frame

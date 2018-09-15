@@ -56,7 +56,7 @@ public class ConnectionManager : MonoBehaviour {
 
     public void CreateClientAndLogin(string ip, string uName, string password)
     {
-        client = new VCenterClient("https://"+ip, uName, password);
+        client = new VCenterClient("http://"+ip, uName, password);
         client.Authenticate((exception, authenticated) =>
         {
             if (authenticated)

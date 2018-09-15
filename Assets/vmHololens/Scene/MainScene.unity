@@ -1462,17 +1462,12 @@ Prefab:
     - target: {fileID: 114951196956282258, guid: 1f44bf47ee996c045a0a5e82f2ad6dc9,
         type: 2}
       propertyPath: UserName
-      value: administrator@vsphere.local
+      value: dev-user@vsphere.local
       objectReference: {fileID: 0}
     - target: {fileID: 114951196956282258, guid: 1f44bf47ee996c045a0a5e82f2ad6dc9,
         type: 2}
       propertyPath: Password
       value: VMware1!
-      objectReference: {fileID: 0}
-    - target: {fileID: 114951196956282258, guid: 1f44bf47ee996c045a0a5e82f2ad6dc9,
-        type: 2}
-      propertyPath: IP
-      value: 127.0.0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1f44bf47ee996c045a0a5e82f2ad6dc9, type: 2}
